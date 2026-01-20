@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Raeanna Vance",
+    "label": "Student",
+    "picture": "img/IMG_1079.jpeg",
+    "email": "rvance@hawaii.edu",
+    "website": "https://vancerae.github.io/spring26/",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2027. Continuing my Education to a Masterʻs Degree in Library Science.",
+    "location": {"city": "Ewa Beach", "island": "Oʻahu", "state": "Hawaii", "countryCode": "USA",
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "VanceR2000",
+        "url": "https://github.com/VanceR2000"
+      },
+      {
+        "network": "linkedin",
+        "username": "raeanna-vance",
+        "url": "https://www.linkedin.com/in/raeanna-vance/"
+      }
+    ]
+  },
+  "interests": [
+    { "name": "Volunteering" },
+    { "name": "Reading" },
+    { "name": "Gaming" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": ["C", "C++", "Java", "JavaScript", "Python"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": ["macOS", "Windows", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "B.A.",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "courses": []
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2022-08-01",
+      "endDate": "2023-07-31",
+      "courses": []
+    },
+    {
+      "institution": "Grantham University, Kansas City, MO",
+      "area": "Computer and Electrical Engineering",
+      "studyType": "A.S.",
+      "startDate": "2006-08-01",
+      "endDate": "2011-12-31",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "company": "Navy Exchange",
+      "position": "Sales Associate",
+      "website": "https://www.mynavyexchange.com",
+      "startDate": "2025-04-14",
+      "endDate": "Present",
+      "summary": "Men's and Shoes Department",
+      "highlights": [
+        "Maintain, update, and recovery of returned items",
+        "Trained on cash register, third-party gift cards, and customer service relationships."
+      ]
+    },
+    {
+      "company": "US Navy",
+      "position": "Chief Firecontrolman, E-7",
+      "website": "https://www.navy.com",
+      "startDate": "2000-01-18",
+      "endDate": "2022-01-31",
+      "summary": "Middle management",
+      "highlights": [
+        "Troubleshoot hardware and mechanical components",
+        "Personnel, time, and program management"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "The Pantry, by Feeding Hawaii Together",
+      "website": "https://thepantry.org",
+      "position": "Volunteer",
+      "startDate": "2023-06-01",
+      "endDate": "Present",
+      "summary": "Volunteer",
+      "highlights": [
+        "Support inventory, order fulfillment, and packing for community food distribution.",
+        "Provide on-site tech support and troubleshoot computer issues for staff and volunteers.",
+        "Reorganized and rerouted wiring within a server cabinet to improve airflow and cable management.",
+        "Assist with general IT maintenance to support nonprofit operations."
+      ]
+    }
+  ],
+  "awards": [],
+  "references": [
+    { "name": "Available upon request." }
+  ]
+}
