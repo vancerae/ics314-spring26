@@ -105,11 +105,11 @@
     }
   ],
   "awards": [
-  "Navy Commendation Medal",
-  "Navy Achievement Medal (awarded 7 times)",
-  "Good Conduct Medal (awarded 7 times)",
-  "Outstanding Volunteer Service Medal",
-  "Sea Service Deployment Ribbon (awarded 4 times)"
+  { "title": "Navy Commendation Medal", "awarder": "U.S. Navy" },
+  { "title": "Navy Achievement Medal", "awarder": "U.S. Navy", "summary": "Awarded 7 times" },
+  { "title": "Good Conduct Medal", "awarder": "U.S. Navy", "summary": "Awarded 7 times" },
+  { "title": "Outstanding Volunteer Service Medal", "awarder": "U.S. Navy" },
+  { "title": "Sea Service Deployment Ribbon", "awarder": "U.S. Navy", "summary": "Awarded 4 times" }
 ],
   "references": [
     { "name": "Available upon request." }
