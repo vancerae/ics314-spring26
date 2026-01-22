@@ -7,8 +7,8 @@ published: true
 permalink: /projects/pillow.html
 
 # image keys (cover different TechFolios variants)
-image: /img/three-generations.jpg
-img: /img/three-generations.jpg
+image: img/three-generations.jpg
+img: img/three-generations.jpg
 thumbnail: /img/three-generations.jpg
 picture: /img/three-generations.jpg
 
