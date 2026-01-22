@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-title: "CIWS: A Frankenstine tory"
+title: "CIWS: A Frankenstein story"
 date: 2026-01-22
 published: true
 permalink: /projects/CIWS.html
@@ -18,15 +18,18 @@ labels:
 summary: "The Close-In Weapon System (CIWS)."
 ---
 
-<figure>
+<figure style="text-align:center;">
   <img style="width:25%;height:auto;display:block;margin:0 auto"
        src="{{ 'img/Phalanx_CIWS_test_fire_-_081107-N-5416W-003.jpg' | relative_url }}"
        alt="CIWS">
-  <figcaption>CIWS.</figcaption>
+  <figcaption>CIWS</figcaption>
 </figure>
 
-During my deployment in 2007, we had issues with our two CIWS mounts; neither was working properly. They had different issues, so I knew the parts needed to fix one issue were not the same as those needed to fix the other.
 
-Since I was the lead in my division, I developed an action plan to remove parts from one mount to restore the other to working order.  After we received the authorization, which normally you don't rob Peter to pay Paul, I was able to take the parts from the out aft mount to install in the forward mount to get that up and running.
+During my 2007 deployment, both CIWS mounts aboard my ship were non-operational. Each system had a different failure mode, which meant the parts required to repair one mount could not be used to fix the other.
 
-After the parts were installed, I again obtained permission from the chain of command to turn on the system to verify that the weapons system was operational.  It worked perfectly. My team and I were presented with CO challenge coins, and we received Navy Achievement Medals for fixing our broken CIWS.
+As the division lead, I evaluated both systems and determined that restoring at least one CIWS to full operational status was the most effective course of action. I developed an action plan to temporarily reallocate serviceable components from the aft mount to the forward mount. Although this approach went against standard practice, I presented the plan to the chain of command and received authorization to proceed.
+
+After my team and I completed the component transfer, I again coordinated with leadership to power on and test the system. The forward CIWS functioned as designed, restoring a critical defensive capability to the ship.
+
+For this effort, my team and I were recognized with Commanding Officer challenge coins and awarded Navy Achievement Medals for restoring the CIWS to operational readiness.
