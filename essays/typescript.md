@@ -23,7 +23,10 @@ The practice WODs play a different role. Their value is in repetition under cons
 Will this approach work for me? I think so. The structure fits how I learn best: read the task, sketch a brief plan, execute in a clean environment, then review what slowed me down. A few adjustments help reinforce this:
 
 Maintain a short personal checklist (setup, branch, run, test, commit).
+
 Automate routine steps and commit common shortcuts to memory.
+
 Start with one slow, deliberate run to establish form before timing becomes an issue.
+
 
 In the end, TypeScript reduces uncertainty and clarifies intent; WODs introduce pressure. Together, they aim to make me faster and more confident, even if the stress remains the hardest part of the process.
