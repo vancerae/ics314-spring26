@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Reflecting on TypeScript, and WODs"
-date: 2025-09-12
+date: 2026-01-22
 published: true
 labels:
   - TypeScript
@@ -22,11 +22,11 @@ From a software engineering perspective, TypeScript’s advantages are mostly pr
 The practice WODs play a different role. Their value is in repetition under constraint. The time limits force me to rely on habits rather than deliberation, which builds fluency: faster setup, fewer syntax errors, and more controlled debugging. The process is stressful, but the stress has a purpose—it pushes me to focus and improves consistency through immediate feedback.
 Will this approach work for me? I think so. The structure fits how I learn best: read the task, sketch a brief plan, execute in a clean environment, then review what slowed me down. A few adjustments help reinforce this:
 
-Maintain a short personal checklist (setup, branch, run, test, commit).
+  Maintain a short personal checklist (setup, branch, run, test, commit).
 
-Automate routine steps and commit common shortcuts to memory.
+  Automate routine steps and commit common shortcuts to memory.
 
-Start with one slow, deliberate run to establish form before timing becomes an issue.
+  Start with one slow, deliberate run to establish form before timing becomes an issue.
 
 
 In the end, TypeScript reduces uncertainty and clarifies intent; WODs introduce pressure. Together, they aim to make me faster and more confident, even if the stress remains the hardest part of the process.
