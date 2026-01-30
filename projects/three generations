@@ -20,7 +20,7 @@ summary: "Designed from my son's leaf drawing and sewn with my mom coaching me o
 
 <figure>
   <img style="width:25%;height:auto;display:block;margin:0 auto"
-       src="{{ '/img/three-generations.jpeg' | relative_url }}"
+       src="{{ '/img/three-generations.jpg' | relative_url }}"
        alt="Three Generations kapa kuiki pillow">
   <figcaption>Leaf motif by my son; stitching with my mom on FaceTime—three generations in one pillow.</figcaption>
 </figure>
