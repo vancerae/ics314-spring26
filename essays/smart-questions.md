@@ -11,7 +11,10 @@ labels:
   - Professional Practice
 ---
 
-![Illustration representing thoughtful problem-solving and communication in software engineering]({{ site.baseurl }}/img/istockphoto-1019220334-612x612.jpg)
+<img src="{{ site.baseurl }}/img/istockphoto-1019220334-612x612.jpg"
+     alt="Books representing an interest in information, organization, and library science."
+     class="img-fluid rounded float-start pe-4"
+     style="width:260px; height:auto;" />
 
 ## Introduction
 
