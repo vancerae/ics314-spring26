@@ -58,3 +58,19 @@ a {
   object-fit: cover;  /* crops instead of stretching */
   display: block;
 }
+
+/* Force ALL project thumbnails on the HOME page to be uniform */
+#projects img,
+.tf-projects img {
+  width: 100% !important;
+  height: 180px !important;     /* try 160–220 */
+  object-fit: cover !important; /* crop, don't stretch */
+  display: block !important;
+}
+
+/* Optional: keep project cards the same height */
+#projects .card,
+.tf-projects .card {
+  height: 100%;
+}
+
