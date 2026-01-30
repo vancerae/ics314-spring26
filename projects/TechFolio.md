@@ -8,6 +8,7 @@ labels:
   - Information Organization
   - Professional Communication
   - Software Engineering Practice
+image: img/techfolio.jpeg
 ---
 
 <img src="{{ site.baseurl }}/img/techfolio.jpeg"
