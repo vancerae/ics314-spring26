@@ -48,3 +48,13 @@ a {
   background-color: var(--bs-white);
   border-top: none;
 }
+
+/* Make all project thumbnails the same size */
+.card-img-top,
+.project-card img,
+.projects img {
+  width: 100%;
+  height: 180px;      /* try 160px–220px */
+  object-fit: cover;  /* crops instead of stretching */
+  display: block;
+}
