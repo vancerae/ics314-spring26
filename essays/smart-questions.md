@@ -106,3 +106,7 @@ These habits will help me communicate more effectively as a software engineer an
 
 ---
 
+## Use of AI Tools
+
+I used ChatGPT as a writing assistant while working on this essay. ChatGPT helped me organize ideas, improve clarity, and refine the structure of the essay. The final content was reviewed and edited to reflect my own understanding and writing style.
+
