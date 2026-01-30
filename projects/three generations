@@ -7,10 +7,10 @@ published: true
 permalink: /projects/threegenerations.html
 
 # image keys (cover different TechFolios variants)
-image: img/three-generations.jpeg
-img: img/three-generations.jpeg
-thumbnail: /img/three-generations.jpeg
-picture: /img/three-generations.jpeg
+image: img/three-generations.jpg
+img: img/three-generations.jpg
+thumbnail: /img/three-generations.jpg
+picture: /img/three-generations.jpg
 
 labels:
   - Hawaiian Studies
