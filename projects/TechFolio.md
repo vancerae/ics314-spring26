@@ -8,12 +8,15 @@ labels:
   - Information Organization
   - Professional Communication
   - Software Engineering Practice
+---
 
 <img src="{{ site.baseurl }}/img/techfolio.jpeg"
      alt="Screenshot of TechFolio professional portfolio website"
      class="img-fluid rounded mx-auto d-block mb-3"
      style="max-width:800px;" />
----
+
+*The TechFolio project focuses on organizing and presenting professional and academic information in a clear, structured format.*
+
 
 ## Overview
 
