@@ -9,7 +9,11 @@ labels:
   - Software Engineering
   - StackOverflow
   - Professional Practice
+image: img /istockphoto-1019220334-612x612.jpg
+permalink: /essays/smart-questions.html
 ---
+
+<img src="{{ '/img /istockphoto-1019220334-612x612.jpg' | relative_url }}" alt="smart question" class="img-fluid rounded float-start pe-4" style="width:300px; height:auto;" /> 
 
 ## Introduction
 
