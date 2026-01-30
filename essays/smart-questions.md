@@ -11,9 +11,7 @@ labels:
   - Professional Practice
 ---
 
-![Illustration representing thoughtful problem-solving and communication in software engineering](/ics314-spring26/img/istockphoto-1019220334-612x612.jpg)
-
-*Clear communication and careful problem framing are essential when asking questions in technical communities.*
+![Illustration representing thoughtful problem-solving and communication in software engineering]({{ site.baseurl }}/img/istockphoto-1019220334-612x612.jpg)
 
 ## Introduction
 
