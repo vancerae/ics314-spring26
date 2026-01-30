@@ -10,6 +10,12 @@ labels:
   - Career Reflection
 ---
 
+<img src="{{ site.baseurl }}/img/books.jpeg"
+     alt="Books representing an interest in information, organization, and library science."
+     class="img-fluid rounded float-start pe-4"
+     style="width:260px; height:auto;" />
+
+
 ## Introduction
 
 My relationship with software engineering is a practical one rather than a passionate one. While I am completing a degree in computer science, I do not plan to pursue a long-term career as a software engineer after graduation. Instead, my goal is to continue my education with a Master of Library and Information Science (MLIS). For me, software engineering is not an end goal, but a set of skills that supports how I want to work with information, systems, and technology in the future.
