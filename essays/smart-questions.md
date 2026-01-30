@@ -9,11 +9,11 @@ labels:
   - Software Engineering
   - StackOverflow
   - Professional Practice
-image: img/istockphoto-1019220334-612x612.jpg
-permalink: /essays/smart-questions.html
 ---
 
-<img src="{{ '/img/istockphoto-1019220334-612x612.jpg' | relative_url }}" alt="smart question" class="img-fluid rounded float-start pe-4" style="width:300px; height:auto;" /> 
+![Illustration representing thoughtful problem-solving and communication in software engineering](/ics314-spring26/img/istockphoto-1019220334-612x612.jpg)
+
+*Clear communication and careful problem framing are essential when asking questions in technical communities.*
 
 ## Introduction
 
