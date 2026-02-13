@@ -8,8 +8,8 @@ permalink: /essays/coding-standards.html
 ---
 
 <figure style="text-align: center; margin: 20px 0;">
-  <img src="/img/eslint.webp" alt="ESLint screenshot"
-       style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+  <img src="{{ '/img/eslint.webp' | relative_url }}" alt="ESLint screenshot"
+     style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
   <figcaption style="font-size: 0.9em; color: #555;">
     Figure: ESLint catching syntax issues in VS Code.
   </figcaption>
