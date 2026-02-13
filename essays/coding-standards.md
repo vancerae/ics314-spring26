@@ -6,7 +6,6 @@ date: 2026-02-12
 description: "A reflection on the value of coding standards and learning from ESLint in ICS 314."
 permalink: /essays/coding-standards.html
 labels:
-  - ICS 314
   - Software Engineering
   - Code Quality
   - ESLint
