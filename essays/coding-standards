@@ -5,6 +5,12 @@ type: essay
 date: 2026-02-12
 description: "A reflection on the value of coding standards and learning from ESLint."
 permalink: /essays/coding-standards.html
+labels: 
+Coding Standards
+ESLint
+TypeScript
+
+
 ---
 
 <figure style="text-align: center; margin: 20px 0;">
