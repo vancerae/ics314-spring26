@@ -6,10 +6,9 @@ date: 2026-02-12
 description: "A reflection on the value of coding standards and learning from ESLint."
 permalink: /essays/coding-standards.html
 labels: 
-Coding Standards
-ESLint
-TypeScript
-
+  -Coding Standards
+  -ESLint
+  -TypeScript
 
 ---
 
