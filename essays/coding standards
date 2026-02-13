@@ -1,47 +1,32 @@
 ---
 layout: essay
+title: Why Coding Standards Matter
 type: essay
-title: Coding Starndards
-date: 2026-01-29
-published: true
-labels:
-  - Communication
-  - Software Engineering
-  - StackOverflow
-  - Professional Practice
+date: 2026-02-12
+description: "A reflection on the value of coding standards and learning from ESLint."
+permalink: /essays/coding-standards.html
 ---
 
-<img src="{{ site.baseurl }}img/eslint.webp"
-     alt="Books representing an interest in information, organization, and library science."
-     class="img-fluid rounded float-start pe-4"
-     style="width:260px; height:auto;" />
+<figure style="text-align: center; margin: 20px 0;">
+  <img src="/img/eslint.webp" alt="ESLint screenshot"
+       style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    Figure: ESLint catching syntax issues in VS Code.
+  </figcaption>
+</figure>
 
-Why Coding Standards Matter (ICS 314 Reflection)
-When I first heard the phrase “coding standards,” I thought of surface-level debates—tabs versus spaces, brace placement, or how many blank lines should separate functions. It sounded cosmetic. But ICS 314 completely changed my perspective.
-Coding standards are not about aesthetics. They are about engineering discipline.
-In ICS 314, we don’t just write JavaScript—we write TypeScript with strict linting rules, often following Airbnb style guidelines. We use ESLint, Prettier, and TypeScript’s strict mode. At first, this felt overwhelming. My screen was covered in red warnings: unused variables, incorrect quote styles, implicit any types, improper imports, formatting violations. It felt like everything I wrote was wrong.
-But something shifted.
-I began to realize that ESLint wasn’t criticizing me—it was coaching me. It enforced consistency. It forced clarity. It made me slow down and think about intent.
-For example:
-I stopped leaving unused variables “just in case.”
-I became more intentional about naming.
-I learned to break complex logic into smaller, cleaner functions.
-I started predicting what the linter would flag before even saving the file.
-That’s when I understood: coding standards accelerate learning.
-In ICS 314, especially during the Workouts of the Day (WODs), speed matters—but clean structure matters more. When implementing functional programming exercises (using map, filter, reduce instead of loops), standards helped me write predictable, readable code. When debugging TypeScript errors, consistent structure made problems easier to isolate.
-Standards also matter deeply for teamwork. Software engineering is collaborative by design. If every developer writes in a completely different style, the codebase becomes fragmented. Reading someone else’s file should not feel like switching dialects. A shared standard creates a unified voice across a project.
-This became especially clear while managing multiple Git branches and merging updates. Clean, consistent code reduces friction. It prevents unnecessary merge conflicts. It makes code reviews meaningful instead of chaotic.
-I also learned that coding standards are not limited to formatting. They influence:
-Naming conventions
-File organization
-Error handling
-Function size and responsibility
-Module structure
-Type safety
-With TypeScript, standards extend even further—explicit typing improves reliability and self-documentation. A well-typed function tells a story before you even read its body.
-At first, fixing lint errors felt tedious—like going to the gym for the first time. But growth lives in that friction. Over time, the corrections became habits. I now write cleaner code the first time. My confidence has improved because my structure is stronger.
-Coding standards are not restrictions.
-They are scaffolding.
-They support learning. They protect teams. They improve maintainability. They transform programming from “making it work” into “engineering it well.”
-ICS 314 has shown me that coding standards aren’t optional extras added at the end of a project—they are foundational from the start.
-And that is why they matter.
+When the term “coding standards” comes up in conversation, it often gets eye rolls and groans. Most people immediately think of trivial arguments like tabs versus spaces, where to place curly braces, or how many blank lines to leave between functions. But brushing off coding standards as mere style points misses the bigger picture. They’re not just about aesthetics—they’re about clarity, consistency, and collaboration. For me, if I had to pick just one software engineering technique to boost code quality across a team or project, it would be enforcing solid coding standards.
+
+In my first week using ESLint with VS Code, I was honestly surprised by how much I learned. ESLint didn’t just highlight errors—it explained why something was wrong or not ideal. It flagged unused variables, suggested better conditional logic, and pointed out spots where I was writing in a more C-like style instead of JavaScript best practices. At first, I’ll admit, it felt a bit like ESLint was judging me. The red squiggles everywhere were overwhelming. But over time, it stopped feeling like criticism and started feeling more like mentorship built into my editor.
+
+Soon, I could predict what ESLint would catch. My code got cleaner and easier to read. I started following JavaScript norms without even thinking about it. ESLint wasn’t just a checker—it was teaching me. It helped me transition from writing "code that works" to writing code that's also maintainable and understandable by others.
+
+That’s the thing about good coding standards—they’re not just about format. They shape how we think when we write code. They create a shared language across a team. When everyone follows the same structure and conventions, I don’t have to waste time decoding someone else's personal style. I can just focus on what the code is doing.
+
+Think of it like writing a book. If every chapter were written by a different person with a totally different tone, grammar, and punctuation style, it would be jarring to read. Coding standards bring that cohesion, so the whole project feels unified—even if it’s built by many hands.
+
+Of course, using ESLint wasn’t always smooth sailing. Like going to the gym, or learning an instrument, it was uncomfortable at first. But discomfort is usually where growth happens. Those little annoyances were signals that I was leveling up my habits. Eventually, the rules that felt like constraints started to feel intuitive.
+
+And let’s not forget—coding standards go beyond formatting. They include naming conventions, function structure, documentation style, and error handling practices. When a project has solid standards—and tools like ESLint or Prettier to reinforce them—it becomes more secure, more flexible, and easier to maintain. You don’t have to memorize every rule because the tooling guides you.
+
+In the end, I think coding standards are one of the most underappreciated pillars of good development. They aren’t just about avoiding arguments over tabs and spaces. They help us write smarter code, learn faster, and collaborate better. That’s why I believe following coding standards isn't optional—it’s essential if you want to grow as a developer.
