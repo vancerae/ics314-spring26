@@ -1,1 +1,47 @@
+---
+layout: essay
+type: essay
+title: Reflecting on Smart Questions
+date: 2026-01-29
+published: true
+labels:
+  - Communication
+  - Software Engineering
+  - StackOverflow
+  - Professional Practice
+---
 
+<img src="{{ site.baseurl }}/img/istockphoto-1019220334-612x612.jpg"
+     alt="Books representing an interest in information, organization, and library science."
+     class="img-fluid rounded float-start pe-4"
+     style="width:260px; height:auto;" />
+
+Why Coding Standards Matter (ICS 314 Reflection)
+When I first heard the phrase “coding standards,” I thought of surface-level debates—tabs versus spaces, brace placement, or how many blank lines should separate functions. It sounded cosmetic. But ICS 314 completely changed my perspective.
+Coding standards are not about aesthetics. They are about engineering discipline.
+In ICS 314, we don’t just write JavaScript—we write TypeScript with strict linting rules, often following Airbnb style guidelines. We use ESLint, Prettier, and TypeScript’s strict mode. At first, this felt overwhelming. My screen was covered in red warnings: unused variables, incorrect quote styles, implicit any types, improper imports, formatting violations. It felt like everything I wrote was wrong.
+But something shifted.
+I began to realize that ESLint wasn’t criticizing me—it was coaching me. It enforced consistency. It forced clarity. It made me slow down and think about intent.
+For example:
+I stopped leaving unused variables “just in case.”
+I became more intentional about naming.
+I learned to break complex logic into smaller, cleaner functions.
+I started predicting what the linter would flag before even saving the file.
+That’s when I understood: coding standards accelerate learning.
+In ICS 314, especially during the Workouts of the Day (WODs), speed matters—but clean structure matters more. When implementing functional programming exercises (using map, filter, reduce instead of loops), standards helped me write predictable, readable code. When debugging TypeScript errors, consistent structure made problems easier to isolate.
+Standards also matter deeply for teamwork. Software engineering is collaborative by design. If every developer writes in a completely different style, the codebase becomes fragmented. Reading someone else’s file should not feel like switching dialects. A shared standard creates a unified voice across a project.
+This became especially clear while managing multiple Git branches and merging updates. Clean, consistent code reduces friction. It prevents unnecessary merge conflicts. It makes code reviews meaningful instead of chaotic.
+I also learned that coding standards are not limited to formatting. They influence:
+Naming conventions
+File organization
+Error handling
+Function size and responsibility
+Module structure
+Type safety
+With TypeScript, standards extend even further—explicit typing improves reliability and self-documentation. A well-typed function tells a story before you even read its body.
+At first, fixing lint errors felt tedious—like going to the gym for the first time. But growth lives in that friction. Over time, the corrections became habits. I now write cleaner code the first time. My confidence has improved because my structure is stronger.
+Coding standards are not restrictions.
+They are scaffolding.
+They support learning. They protect teams. They improve maintainability. They transform programming from “making it work” into “engineering it well.”
+ICS 314 has shown me that coding standards aren’t optional extras added at the end of a project—they are foundational from the start.
+And that is why they matter.
