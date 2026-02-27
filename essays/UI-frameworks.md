@@ -12,6 +12,10 @@ labels:
   - Responsive Design
 ---
 
+<div style="text-align: center;">
+  <img src="/ics314-spring26/img/images.jpeg" width="700">
+</div>
+
 ## Introduction
 
 This is not my first time taking this class. I have been introduced to Bootstrap before. The difference this semester is not that the material changed — it’s that my understanding did.
