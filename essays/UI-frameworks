@@ -1,24 +1,24 @@
 ---
 layout: essay
-title: Why Coding Standards Matter
+title: Why Bother with UI Frameworks?
 type: essay
 date: 2026-02-26
-description: "A reflection on the value of coding standards and learning from ESLint in ICS 314."
-permalink: /essays/coding-standards.html
+description: "A reflection on learning Bootstrap 5 the second time around and understanding UI frameworks more deeply."
+permalink: /essays/ui-frameworks-bootstrap.html
 labels:
   - Software Engineering
-  - Code Quality
-  - ESLint
-  - TypeScript
+  - UI Frameworks
+  - Bootstrap
+  - Responsive Design
 ---
 
-Why Bother with UI Frameworks? What Bootstrap 5 Taught Me (The Second Time Around)
+## Why Bother with UI Frameworks?  What Bootstrap 5 Taught Me (The Second Time Around)
 Introduction
 This is not my first time taking this class.  I have been introduced to Bootstrap before.  The difference this semester is not that the material changed — it’s that my understanding did.
 The first time, Bootstrap felt like a list of random class names I had to memorize.  I could follow instructions, but I did not fully understand the system behind it.  This semester, however, something shifted.  Instead of just trying to “make it work,” I began to understand why it worked.
 That difference changed everything.
  
-The First Time vs. This Time
+## The First Time vs. This Time
 The first time I encountered Bootstrap, I focused on completing assignments.  If the layout looked correct, I moved on.  I didn’t always question how the grid worked or why certain classes were necessary.
 This semester, I approached it differently.
 When:
@@ -36,7 +36,7 @@ Instead of memorizing class names, I started recognizing patterns:
 •	Utility classes fine-tune alignment and spacing.
 Bootstrap stopped being a collection of shortcuts and started becoming a structured system.
  
-Growth Through Repetition
+## Growth Through Repetition
 Taking the class again gave me something valuable: repetition with perspective.
 The first time, I was overwhelmed by new concepts.  This time, I had enough foundational knowledge to slow down and truly understand what was happening.
 I learned:
@@ -47,7 +47,7 @@ I learned:
 Instead of feeling frustrated when something broke, I began to see debugging as part of the process.  I inspected elements, analyzed the structure, and made deliberate changes.
 That is a very different mindset from the one I had before.
  
-Why Bootstrap Matters
+## Why Bootstrap Matters
 Technically, I could build everything using raw HTML and CSS.  But Bootstrap offers:
 •	A consistent layout system
 •	Pre-tested responsive components
@@ -60,17 +60,20 @@ More importantly, it reinforces core software engineering principles:
 •	Efficiency – less repetitive code
 This semester, I saw how frameworks reduce friction in development.  Instead of spending hours writing and debugging custom CSS, I could focus on structure and design decisions.
  
-What Changed in Me
+## What Changed in Me
 The biggest difference between the first time I took this class and now is not technical skill — it is mindset.
 Before, I wanted to complete the assignment.
 Now, I want to understand the system.
 Bootstrap no longer feels like an extra layer of complexity.  It feels like controlled abstraction.  I understand why the grid exists.  I understand why breakpoints matter.  I understand why structure must come before styling.
 That growth is more important than simply knowing more class names.
  
-Conclusion
+## Conclusion
 Taking this class again did not mean repeating the same experience.  It meant approaching the same material with more maturity, patience, and willingness to truly learn.
 Bootstrap 5 taught me more than how to build responsive websites.  It taught me how to work within a structured framework, how to debug thoughtfully, and how to think in terms of scalability rather than quick fixes.
 The first time, I learned how to follow the system.
 This time, I learned how to understand it.
 And that made all the difference.
 
+## Use of AI Tools
+
+I used ChatGPT as a writing assistant to help revise and organize this essay for clarity and structure. The final content was reviewed and edited to reflect my own experience and perspective.
