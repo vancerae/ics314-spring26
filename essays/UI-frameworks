@@ -1,0 +1,76 @@
+---
+layout: essay
+title: Why Coding Standards Matter
+type: essay
+date: 2026-02-26
+description: "A reflection on the value of coding standards and learning from ESLint in ICS 314."
+permalink: /essays/coding-standards.html
+labels:
+  - Software Engineering
+  - Code Quality
+  - ESLint
+  - TypeScript
+---
+
+Why Bother with UI Frameworks? What Bootstrap 5 Taught Me (The Second Time Around)
+Introduction
+This is not my first time taking this class.  I have been introduced to Bootstrap before.  The difference this semester is not that the material changed — it’s that my understanding did.
+The first time, Bootstrap felt like a list of random class names I had to memorize.  I could follow instructions, but I did not fully understand the system behind it.  This semester, however, something shifted.  Instead of just trying to “make it work,” I began to understand why it worked.
+That difference changed everything.
+ 
+The First Time vs. This Time
+The first time I encountered Bootstrap, I focused on completing assignments.  If the layout looked correct, I moved on.  I didn’t always question how the grid worked or why certain classes were necessary.
+This semester, I approached it differently.
+When:
+•	My navbar wouldn’t collapse properly
+•	Text refused to stay on one line
+•	Images stretched layouts too wide
+•	Breakpoints behaved unpredictably
+•	Elements wouldn’t disappear on smaller screens
+I didn’t just patch the issue.  I worked through it.
+Instead of memorizing class names, I started recognizing patterns:
+•	Containers control width.
+•	Row structure layout.
+•	Columns divide space proportionally.
+•	Breakpoints determine behavior.
+•	Utility classes fine-tune alignment and spacing.
+Bootstrap stopped being a collection of shortcuts and started becoming a structured system.
+ 
+Growth Through Repetition
+Taking the class again gave me something valuable: repetition with perspective.
+The first time, I was overwhelmed by new concepts.  This time, I had enough foundational knowledge to slow down and truly understand what was happening.
+I learned:
+•	How responsive design actually functions across screen sizes.
+•	Why mobile-first development matters.
+•	How to debug layout problems logically instead of randomly.
+•	How abstraction makes projects more scalable.
+Instead of feeling frustrated when something broke, I began to see debugging as part of the process.  I inspected elements, analyzed the structure, and made deliberate changes.
+That is a very different mindset from the one I had before.
+ 
+Why Bootstrap Matters
+Technically, I could build everything using raw HTML and CSS.  But Bootstrap offers:
+•	A consistent layout system
+•	Pre-tested responsive components
+•	Built-in spacing and alignment utilities
+•	Faster development cycles
+More importantly, it reinforces core software engineering principles:
+•	Maintainability – consistent class structure
+•	Scalability – easier expansion without rewriting styles
+•	Reusability – components that work across projects
+•	Efficiency – less repetitive code
+This semester, I saw how frameworks reduce friction in development.  Instead of spending hours writing and debugging custom CSS, I could focus on structure and design decisions.
+ 
+What Changed in Me
+The biggest difference between the first time I took this class and now is not technical skill — it is mindset.
+Before, I wanted to complete the assignment.
+Now, I want to understand the system.
+Bootstrap no longer feels like an extra layer of complexity.  It feels like controlled abstraction.  I understand why the grid exists.  I understand why breakpoints matter.  I understand why structure must come before styling.
+That growth is more important than simply knowing more class names.
+ 
+Conclusion
+Taking this class again did not mean repeating the same experience.  It meant approaching the same material with more maturity, patience, and willingness to truly learn.
+Bootstrap 5 taught me more than how to build responsive websites.  It taught me how to work within a structured framework, how to debug thoughtfully, and how to think in terms of scalability rather than quick fixes.
+The first time, I learned how to follow the system.
+This time, I learned how to understand it.
+And that made all the difference.
+
