@@ -4,19 +4,19 @@ type: essay
 title: "Reflection on AI"
 date: 2026-05-11
 published: true
-labels:
-  - AI
-  - WODs
-image: img/DVffQnnibMWmNpx2Wfb5Se-1200-80.jpg.webp
+labels: [AI, WODs]
+image: /img/DVffQnnibMWmNpx2Wfb5Se-1200-80.jpg.webp
 permalink: /essays/AIin314.html
 ---
 
-<img src="{{ 'img/DVffQnnibMWmNpx2Wfb5Se-1200-80.jpg.webp' | relative_url }}" alt="TypeScript" class="img-fluid rounded float-start pe-4" style="width:300px; height:auto;" /> 
+<img src="{{ '/img/DVffQnnibMWmNpx2Wfb5Se-1200-80.jpg.webp' | relative_url }}" 
+alt="AI" class="img-fluid rounded float-start pe-4" style="width:300px; height:auto;" />
 
-Reflecting on the Use of AI in ICS 314
-I. Introduction
-Artificial Intelligence (AI) has become an increasingly influential tool in modern education, particularly in technical disciplines such as software engineering. In courses like ICS 314, where students are required to design, implement, debug, and document complex systems, AI tools can act as both assistants and accelerators of learning. These tools provide real-time feedback, generate code, explain concepts, and help troubleshoot issues, making them highly relevant in a fast-paced development environment.
-Throughout this semester, I primarily used ChatGPT as my main AI tool. While other tools such as GitHub Copilot and Google Bard exist, my workflow centered on ChatGPT due to its ability to provide structured explanations, debugging assistance, and step-by-step guidance. In ICS 314, I used AI extensively while working with technologies such as Next.js, React, Prisma, PostgreSQL, and Bootstrap. These tools required both conceptual understanding and practical implementation, making AI support especially valuable.
+# Reflecting on the Use of AI in ICS 314
+
+## I. Introduction
+
+Artificial Intelligence (AI) has become an increasingly influential tool in modern education...Throughout this semester, I primarily used ChatGPT as my main AI tool. While other tools such as GitHub Copilot and Google Bard exist, my workflow centered on ChatGPT due to its ability to provide structured explanations, debugging assistance, and step-by-step guidance. In ICS 314, I used AI extensively while working with technologies such as Next.js, React, Prisma, PostgreSQL, and Bootstrap. These tools required both conceptual understanding and practical implementation, making AI support especially valuable.
 This essay reflects on how AI influenced my learning, development process, and understanding of software engineering principles throughout the course.
 II. Personal Experience with AI
 Experience WODs (e.g., E18)
