@@ -8,7 +8,7 @@ labels:
   - AI
   - WODs
 image: img/typescript.jpg
-permalink: /essays/typescript.html
+permalink: /essays/AIin314.html
 ---
 
 <img src="{{ '/img/typescript.jpg' | relative_url }}" alt="TypeScript" class="img-fluid rounded float-start pe-4" style="width:300px; height:auto;" /> 
